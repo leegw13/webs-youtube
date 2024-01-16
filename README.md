@@ -19,3 +19,11 @@
 - sass를 설치합니다. `npm install sass`
 - react-helmet-async를 설치합니다. `npm install react-helmet-async`
 - swiper를 설치합니다. `npm install swiper`
+
+### 라이브러리
+- react-router-dom: 라우팅 및 페이지 네비게이션
+- Axios: HTTP요청을 만들고 처리
+- react-icons: 리액트에서 사용할 아이콘
+- sass: CSS를 간결하고 유지보수하기 쉽게 작성
+- react-helmet-async: 동적으로 웹 페이지의 헤더 메타데이터를 관리
+- swiper: 
