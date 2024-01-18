@@ -24,7 +24,6 @@ const App = () => {
   return (
     <BrowserRouter>
       <Header />
-      <Main />
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/today' element={<Today />} />
@@ -39,6 +38,7 @@ const App = () => {
         <Route path='/search/:searchId' element={<Search />} />
         <Route path='*' element={<Not />} />
       </Routes>
+      <Main />
       <Footer />
     </BrowserRouter>
   );
